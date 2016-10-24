@@ -24,7 +24,3 @@ Then add **hubot-imdb** to your `external-scripts.json`:
 user1>> hubot imdb the godfather
 hubot>> prints imdb details of godfather movie
 ```
-
-## NPM Module
-
-https://www.npmjs.com/package/hubot-imdb
