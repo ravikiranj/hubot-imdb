@@ -23,4 +23,7 @@ Then add **hubot-imdb** to your `external-scripts.json`:
 ```
 user1>> hubot imdb the godfather
 hubot>> prints imdb details of godfather movie
+
+user1>> hubot movie the godfather
+hubot>> prints imdb details of godfather movie
 ```
