@@ -1,7 +1,7 @@
 {
   "name": "hubot-imdb",
   "description": "fetches imdb details about a movie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "ravikiran.j.127@gmail.com",
   "license": "BSD-2-Clause",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-imdb.git"
+    "url": "git://github.com/ravikiranj/hubot-imdb.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-imdb/issues"
+    "url": "https://github.com/ravikiranj/hubot-imdb/issues"
   },
 
   "dependencies": {
