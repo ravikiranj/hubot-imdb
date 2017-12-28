@@ -1,7 +1,7 @@
 {
   "name": "hubot-imdb",
   "description": "fetches imdb details about a movie",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "ravikiran.j.127@gmail.com",
   "license": "BSD-2-Clause",
   "keywords": "imdb, movies",
