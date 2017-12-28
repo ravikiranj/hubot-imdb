@@ -18,12 +18,17 @@ Then add **hubot-imdb** to your `external-scripts.json`:
 ]
 ```
 
+## Configuration
+* Obtain an OMDB API Key via http://www.omdbapi.com/apikey.aspx and set `OMDB_API_KEY` variable in your config.
+
+```
+export HUBOT_OMDB_API_KEY="YOUR_API_KEY"
+```
+
 ## Sample Interaction
 
 ```
-user1>> hubot imdb the godfather
-hubot>> prints imdb details of godfather movie
-
-user1>> hubot movie the godfather
-hubot>> prints imdb details of godfather movie
+user1>> hubot movie spirited away
+hubot>> Spirited Away (2001) - www.imdb.com/title/tt0245429
+https://images-na.ssl-images-amazon.com/images/M/MV5BMzliMzYxOWEtMDQxNy00OWI4LWI0ZDktOTU2YTdhZWMzMDdjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg
 ```
