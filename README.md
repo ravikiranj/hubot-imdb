@@ -2,7 +2,7 @@
 
 fetches imdb details about a movie
 
-See [`src/imdb.coffee`](src/imdb.coffee) for full documentation.
+See [`src/imdb.js`](src/imdb.js) for full documentation.
 
 ## Installation
 
