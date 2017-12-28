@@ -19,7 +19,7 @@ Then add **hubot-imdb** to your `external-scripts.json`:
 ```
 
 ## Configuration
-* Obtain an OMDB API Key via http://www.omdbapi.com/apikey.aspx and set `OMDB_API_KEY` variable in your config.
+* Obtain an OMDB API Key via http://www.omdbapi.com/apikey.aspx and set `HUBOT_OMDB_API_KEY` variable in your config.
 
 ```
 export HUBOT_OMDB_API_KEY="YOUR_API_KEY"
